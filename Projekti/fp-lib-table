@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "U2_updated")(type "KiCad")(uri "${KIPRJMOD}/U2_updated.pretty")(options "")(descr ""))
+  (lib (name "final_U2")(type "KiCad")(uri "${KIPRJMOD}/final_U2.pretty")(options "")(descr ""))
+  (lib (name "esp_foorprint")(type "KiCad")(uri "${KIPRJMOD}/esp_foorprint.pretty")(options "")(descr ""))
+)
