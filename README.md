@@ -1,6 +1,7 @@
 # SaaasemaProjekti
 
 Tarkoituksena oli tehdä sääasema joka mittaa lämpötilaa, ilmanpainetta, -kosteutta, sademäärää sekä tuulennopeutta. Projekti suunniteltiin ja rakennettiin piirilevyä myöten itse. Projekti onnistui suunnitelmien mukaisesti.
+
 Valmis projekti
 ![ValmisProjekti](https://github.com/user-attachments/assets/aa21a6c5-2b87-43de-9957-8f78636fa053)
 Piirilevy
